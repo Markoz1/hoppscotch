@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Allow: /
+Sitemap: https://semr-test.firebaseapp.com/sitemap.xml
